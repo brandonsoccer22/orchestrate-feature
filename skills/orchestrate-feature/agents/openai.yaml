@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrate Feature"
+  short_description: "Coordinate implementers and independent verifiers"
+  default_prompt: "Use $orchestrate-feature to deliver this feature with Astra coordinating, Luna implementing, and Terra independently verifying."
